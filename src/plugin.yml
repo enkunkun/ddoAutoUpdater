@@ -1,0 +1,3 @@
+name: ddoAutoUpdater
+main: net.enkun.plugins.ddoautoupdater.Main
+version: 1.0
